@@ -155,7 +155,7 @@ Rio Plugins
 -----------
 
 Rio provides the ability to create subcommands using plugins.  See
-`cli.rst <https://github.com/rasterio/rasterio/blob/master/docs/cli.rst#rio-plugins>`__
+`cli.rst <https://github.com/rasterio/rasterio/blob/main/docs/cli.rst#rio-plugins>`__
 for more information on building plugins.
 
 See the
